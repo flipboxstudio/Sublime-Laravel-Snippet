@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[/**
+ * ${1:add description to scope here.}
+ *
+ * @return \Illuminate\Database\Eloquent\Builder
+ */
+public function scope${2:Name}(\$query)
+{
+	return \$query->${3:where($0)};
+}
+]]></content>
+	<tabTrigger>model::scope</tabTrigger>
+	<scope>source.php</scope>
+	<description>Scope Method</description>
+</snippet>

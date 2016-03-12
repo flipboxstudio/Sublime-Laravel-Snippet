@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[<?${TM_PHP_OPEN_TAG:php}
+
+${1:namespace }$2
+]]></content>
+    <tabTrigger>php</tabTrigger>
+    <scope>embedding.php text.html - source.php</scope>
+    <description>&lt;?php … ?&gt;</description>
+</snippet>

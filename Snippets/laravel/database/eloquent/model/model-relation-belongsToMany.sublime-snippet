@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[return \$this->belongsToMany('App\Models\\${1:ModelName}', '${2:pivot_table}');]]></content>
+	<tabTrigger>belongsToMany</tabTrigger>
+	<scope>source.php</scope>
+	<description>belongsToMany(…)</description>
+</snippet>

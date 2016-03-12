@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[/**
+ * The relations to eager load on every query.
+ *
+ * @var array
+ */
+protected \$with = ['${1:field}'];
+]]></content>
+    <tabTrigger>mod$with</tabTrigger>
+	<scope>source.php</scope>
+    <description>With eager</description>
+</snippet>

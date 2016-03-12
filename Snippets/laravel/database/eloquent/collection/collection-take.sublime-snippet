@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[take(${1:5});]]></content>
+	<tabTrigger>take</tabTrigger>
+	<scope>source.php</scope>
+	<description>colections</description>
+</snippet>

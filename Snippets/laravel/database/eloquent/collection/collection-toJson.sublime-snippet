@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[toJson();]]></content>
+	<tabTrigger>toJson</tabTrigger>
+	<scope>source.php</scope>
+	<description>colections</description>
+</snippet>

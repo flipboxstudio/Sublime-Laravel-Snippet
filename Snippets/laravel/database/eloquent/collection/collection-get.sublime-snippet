@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[get(${1:'${2:field}'});]]></content>
+	<tabTrigger>get</tabTrigger>
+	<scope>source.php</scope>
+	<description>colections</description>
+</snippet>

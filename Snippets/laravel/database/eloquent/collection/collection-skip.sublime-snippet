@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[skip(${1:5});]]></content>
+	<tabTrigger>skip</tabTrigger>
+	<scope>source.php</scope>
+	<description>colections</description>
+</snippet>

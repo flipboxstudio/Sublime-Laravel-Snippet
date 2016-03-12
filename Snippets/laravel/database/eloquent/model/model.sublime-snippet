@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Model;
+
+class ${1:${TM_FILENAME/(.+)\..+|.*/$1/:name}} extends Model
+{
+	${0://}
+}
+
+]]></content>
+    <tabTrigger>model</tabTrigger>
+	<scope>embedding.php text.html - source.php</scope>
+    <description>Create model</description>
+</snippet>

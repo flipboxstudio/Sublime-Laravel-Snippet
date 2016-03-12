@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[/**
+ * The attributes that aren't mass assignable.
+ *
+ * @var array
+ */
+protected \$guarded = ['${1:*}'];
+]]></content>
+    <tabTrigger>mod$guarded</tabTrigger>
+	<scope>source.php</scope>
+    <description>Guarded attr</description>
+</snippet>

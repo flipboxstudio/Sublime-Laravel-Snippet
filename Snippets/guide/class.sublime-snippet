@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[guide]]></content>
+    <tabTrigger>_g::class</tabTrigger>
+    <scope>source.php</scope>
+    <description>Guide Class</description>
+</snippet>

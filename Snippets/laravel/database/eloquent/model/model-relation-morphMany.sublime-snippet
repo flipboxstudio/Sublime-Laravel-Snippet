@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[return \$this->morphMany('App\Models\\${1:ModelName}', '${2:available}');]]></content>
+	<tabTrigger>morphMany</tabTrigger>
+	<scope>source.php</scope>
+	<description>morphMany(…)</description>
+</snippet>

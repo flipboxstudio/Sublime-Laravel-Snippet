@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[avg();]]></content>
+	<tabTrigger>avg</tabTrigger>
+	<scope>source.php</scope>
+	<description>colections</description>
+</snippet>

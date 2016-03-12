@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[/**
+ * Get all of the owning ${1:available} model.
+ */
+public function ${1:available}()
+{
+	return \$this->morphTo();
+}
+]]></content>
+	<tabTrigger>model::polymorphic</tabTrigger>
+	<scope>source.php</scope>
+	<description>function(…)</description>
+</snippet>

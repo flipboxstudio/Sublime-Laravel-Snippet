@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[table->char('${1:field}', ${2:10});]]></content>
+    <tabTrigger>table->char()</tabTrigger>
+    <scope>source.php</scope>
+    <description>Character</description>
+</snippet>

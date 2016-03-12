@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[table->integer('${1:field}');]]></content>
+    <tabTrigger>table->integer()</tabTrigger>
+    <scope>source.php</scope>
+    <description>Integer</description>
+</snippet>

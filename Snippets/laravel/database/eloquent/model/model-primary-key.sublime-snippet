@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[/**
+ * The primary key for the model.
+ *
+ * @var string
+ */
+protected \$primaryKey = '${1:id}';
+]]></content>
+	<tabTrigger>mod$primaryKey</tabTrigger>
+	<scope>source.php</scope>
+	<description>Primary key</description>
+</snippet>

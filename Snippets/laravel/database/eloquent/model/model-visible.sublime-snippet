@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[/**
+ * The attributes that should be hidden for arrays.
+ *
+ * @var array
+ */
+protected \$hidden = ['${1:field}'];
+]]></content>
+    <tabTrigger>mod$hidden</tabTrigger>
+	<scope>source.php</scope>
+    <description>Hidden attr</description>
+</snippet>

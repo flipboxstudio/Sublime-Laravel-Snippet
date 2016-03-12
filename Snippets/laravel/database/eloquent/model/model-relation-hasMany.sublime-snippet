@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[return \$this->hasMany('App\Models\\${1:ModelName}'${2:, '${3:foreign_key}', '${4:local_key}'});]]></content>
+	<tabTrigger>hasMany</tabTrigger>
+	<scope>source.php</scope>
+	<description>hasMany(…)</description>
+</snippet>

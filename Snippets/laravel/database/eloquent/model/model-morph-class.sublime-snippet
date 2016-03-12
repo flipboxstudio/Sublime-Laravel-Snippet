@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[/**
+ * The class name to be used in polymorphic relations.
+ *
+ * @var string
+ */
+protected \$morphClass = '${1:name}';
+]]></content>
+    <tabTrigger>mod$morph</tabTrigger>
+	<scope>source.php</scope>
+    <description>Morph class name</description>
+</snippet>

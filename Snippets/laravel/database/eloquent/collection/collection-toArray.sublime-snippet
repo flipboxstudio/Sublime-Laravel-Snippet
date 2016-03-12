@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[toArray();]]></content>
+	<tabTrigger>toArr</tabTrigger>
+	<scope>source.php</scope>
+	<description>colections</description>
+</snippet>

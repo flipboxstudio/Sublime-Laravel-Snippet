@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[return \$this->belongsTo('App\Models\\${1:ModelName}'${2:, '${3:foreign_key}', '${4:other_key}'});]]></content>
+	<tabTrigger>belongsTo</tabTrigger>
+	<scope>source.php</scope>
+	<description>belongsTo(…)</description>
+</snippet>

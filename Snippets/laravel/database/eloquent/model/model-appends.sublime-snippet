@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[/**
+ * The accessors to append to the model's array form.
+ *
+ * @var array
+ */
+protected \$appends = ['${1:field}'];
+]]></content>
+    <tabTrigger>mod$appends</tabTrigger>
+	<scope>source.php</scope>
+    <description>Appends attr</description>
+</snippet>

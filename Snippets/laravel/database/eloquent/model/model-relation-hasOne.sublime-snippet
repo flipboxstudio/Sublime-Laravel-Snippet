@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[return \$this->hasOne('App\Models\\${1:ModelName}'${2:, '${3:foreign_key}', '${4:local_key}'});]]></content>
+	<tabTrigger>hasOne</tabTrigger>
+	<scope>source.php</scope>
+	<description>hasOne(…)</description>
+</snippet>

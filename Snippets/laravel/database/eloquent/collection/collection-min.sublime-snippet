@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[min();]]></content>
+	<tabTrigger>min</tabTrigger>
+	<scope>source.php</scope>
+	<description>colections</description>
+</snippet>

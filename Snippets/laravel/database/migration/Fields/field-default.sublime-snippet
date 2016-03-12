@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[default($1);]]></content>
+    <tabTrigger>default()</tabTrigger>
+    <scope>source.php</scope>
+    <description>default</description>
+</snippet>

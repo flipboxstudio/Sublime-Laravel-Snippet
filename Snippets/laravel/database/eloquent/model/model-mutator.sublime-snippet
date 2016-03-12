@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[/**
+ * Set ${1:Field}.
+ *
+ * @param  string  \$value
+ * @return string
+ */
+public function set${1:Field}Attribute(\$value)
+{
+	${2:\$this->attributes['${3:field}'] = ${4:\$value;}}
+}
+]]></content>
+    <tabTrigger>model::mutator</tabTrigger>
+	<scope>source.php</scope>
+    <description>setFieldAttr</description>
+</snippet>
