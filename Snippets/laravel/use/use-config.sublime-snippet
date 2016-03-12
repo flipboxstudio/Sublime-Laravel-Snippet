@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[use Config;]]></content>
+    <tabTrigger>useC</tabTrigger>
+    <scope>source.php</scope>
+    <description>Config</description>
+</snippet>

@@ -1,0 +1,26 @@
+<snippet>
+    <content><![CDATA[/**
+---------------------------------------------------------------------------------
+ List Validation Rules
+---------------------------------------------------------------------------------
+accepted				digits:value				regex:pattern
+active_url				digits_between:min,max		required
+after:date 				email						required_if:anotherfield,value,...
+alpha					exists:table,column			required_unless:anotherfield,value,... 
+alpha_dash				image						required_with:foo,bar,...
+alpha_num 				in:foo,bar,...				required_with_all:foo,bar,...
+array					integer						required_without:foo,bar,...
+before:date 			ip							required_without_all:foo,bar,...
+between:min,max			json						same:field
+boolean					max:value					size:value
+confirmed				mimes:foo,bar,...			string
+date 					min:value					timezone
+date_format:format		not_in:foo,bar,...			unique:table,column,except,idColumn
+different:field			numeric 					url
+---------------------------------------------------------------------------------
+*/
+]]></content>
+    <tabTrigger>rule LIST</tabTrigger>
+    <scope>source.php</scope>
+    <description>List of Rules</description>
+</snippet>

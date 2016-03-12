@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[use Mail;]]></content>
+    <tabTrigger>useM</tabTrigger>
+    <scope>source.php</scope>
+    <description>Mail</description>
+</snippet>

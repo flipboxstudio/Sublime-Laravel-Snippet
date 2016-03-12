@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[mimes:${1:jpg},${2:png}${3:|}$0]]></content>
+    <tabTrigger>mimes</tabTrigger>
+    <scope>source.php</scope>
+    <description>Rules</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[request->method()]]></content>
+    <tabTrigger>reqMethod</tabTrigger>
+    <scope>source.php</scope>
+    <description>$request->method()</description>
+</snippet>

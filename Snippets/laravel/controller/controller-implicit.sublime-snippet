@@ -1,0 +1,51 @@
+<snippet>
+    <content><![CDATA[${2:/**
+ * Handle GET requests to ${1:Object}
+ *
+ * @param  \Illuminate\Http\Request \$request
+ * @return \Illuminate\Http\Response
+ */
+public function get${1:Object}(Request \$request)
+{
+    //
+\}
+
+}${3:/**
+ * Handle POST request to ${1:Object}
+ *
+ * @param  \Illuminate\Http\Request \$request
+ * @return \Illuminate\Http\Response
+ */
+public function post${1:Object}(Request \$request)
+{
+    //
+\}
+
+}${4:/**
+ * Handle PUT request to ${1:Object}
+ *
+ * @param  \Illuminate\Http\Request \$request
+ * @param  string  $id
+ * @return \Illuminate\Http\Response
+ */
+public function put${1:Object}(Request \$request, \$id)
+{
+    //
+\}
+
+}${5:/**
+ * Handle Delete request to ${1:Object}
+ *
+ * @param  \Illuminate\Http\Request \$request
+ * @param  string  $id
+ * @return \Illuminate\Http\Response
+ */
+public function delete${1:Object}(Request \$request, \$id)
+{
+    //
+\}}
+]]></content>
+    <tabTrigger>implicit</tabTrigger>
+	<scope>source.php</scope>
+    <description>controller</description>
+</snippet>

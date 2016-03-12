@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[between:${1:min},${2:max}${3:|}$0]]></content>
+    <tabTrigger>between</tabTrigger>
+    <scope>source.php</scope>
+    <description>Rules</description>
+</snippet>

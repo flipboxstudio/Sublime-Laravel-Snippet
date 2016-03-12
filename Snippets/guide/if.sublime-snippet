@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[/**
+--------------------------------------------------------------------------------------
+ Guid how to use decision If in Flipbox
+--------------------------------------------------------------------------------------
+
+]]></content>
+    <tabTrigger>_guide::if</tabTrigger>
+    <scope>source.php</scope>
+    <description>Guide Decision If Else</description>
+</snippet>

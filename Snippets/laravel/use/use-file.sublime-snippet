@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[use File;]]></content>
+    <tabTrigger>useF</tabTrigger>
+    <scope>source.php</scope>
+    <description>File</description>
+</snippet>

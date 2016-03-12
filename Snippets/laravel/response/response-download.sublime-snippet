@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[return response()->download('${1:filePath}', '${2:setName}');]]></content>
+    <tabTrigger>resDownload</tabTrigger>
+    <scope>source.php</scope>
+    <description>Response download</description>
+</snippet>

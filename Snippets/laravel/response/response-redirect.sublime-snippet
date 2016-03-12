@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[return response()->redirect(URL::to('${1:/}');]]></content>
+    <tabTrigger>resRedirect</tabTrigger>
+    <scope>source.php</scope>
+    <description>Response redirect</description>
+</snippet>

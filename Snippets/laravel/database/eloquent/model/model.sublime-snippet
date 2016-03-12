@@ -1,11 +1,11 @@
 <snippet>
     <content><![CDATA[<?php
 
-namespace App\Models;
+namespace ${1:App\Models};
 
 use Illuminate\Database\Eloquent\Model;
 
-class ${1:${TM_FILENAME/(.+)\..+|.*/$1/:name}} extends Model
+class ${2:${TM_FILENAME/(.+)\..+|.*/$1/:name}} extends Model
 {
 	${0://}
 }

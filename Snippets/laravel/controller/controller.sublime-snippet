@@ -1,0 +1,19 @@
+<snippet>
+    <content><![CDATA[<?php
+
+namespace App\Http\Controllers;
+
+use Illuminate\Http\Request;
+
+use App\Http\Requests;
+use App\Http\Controllers\Controller;
+
+class ${1:${TM_FILENAME/(.+)\..+|.*/$1/:name}} extends Controller
+{
+    ${0://}
+}
+]]></content>
+    <tabTrigger>controller</tabTrigger>
+	<scope>embedding.php text.html - source.php</scope>
+    <description>Create controller</description>
+</snippet>

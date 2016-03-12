@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[use Hash;]]></content>
+    <tabTrigger>useH</tabTrigger>
+    <scope>source.php</scope>
+    <description>Hash</description>
+</snippet>

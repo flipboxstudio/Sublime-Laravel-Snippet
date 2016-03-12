@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[use Crypt;]]></content>
+    <tabTrigger>useCr</tabTrigger>
+    <scope>source.php</scope>
+    <description>Crypt</description>
+</snippet>

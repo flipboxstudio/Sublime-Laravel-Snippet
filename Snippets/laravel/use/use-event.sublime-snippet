@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[use Event;]]></content>
+    <tabTrigger>useE</tabTrigger>
+    <scope>source.php</scope>
+    <description>Event</description>
+</snippet>

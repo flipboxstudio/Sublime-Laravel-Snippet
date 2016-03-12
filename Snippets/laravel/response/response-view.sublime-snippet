@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[return response()->view('${1:blade}');]]></content>
+    <tabTrigger>resView</tabTrigger>
+    <scope>source.php</scope>
+    <description>Response view</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[use URL;]]></content>
+    <tabTrigger>useU</tabTrigger>
+    <scope>source.php</scope>
+    <description>URL</description>
+</snippet>

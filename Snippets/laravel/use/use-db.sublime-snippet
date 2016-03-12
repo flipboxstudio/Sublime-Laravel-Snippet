@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[use DB;]]></content>
+    <tabTrigger>useDB</tabTrigger>
+    <scope>source.php</scope>
+    <description>DB</description>
+</snippet>

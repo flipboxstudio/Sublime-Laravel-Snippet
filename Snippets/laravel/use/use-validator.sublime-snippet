@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[use Validator;]]></content>
+    <tabTrigger>useV</tabTrigger>
+    <scope>source.php</scope>
+    <description>Validator</description>
+</snippet>

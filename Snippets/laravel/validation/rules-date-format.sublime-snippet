@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[date-format:${1:format}${2:|}$0]]></content>
+    <tabTrigger>date-format</tabTrigger>
+    <scope>source.php</scope>
+    <description>Rules</description>
+</snippet>
