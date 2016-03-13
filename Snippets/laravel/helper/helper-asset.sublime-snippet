@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[asset('${1:img/${2:source}}');]]></content>
+    <tabTrigger>asset</tabTrigger>
+    <scope>source.php</scope>
+    <description>helper</description>
+</snippet>

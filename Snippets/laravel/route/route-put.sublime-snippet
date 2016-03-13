@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Route::put('${1:segment}', '${2:ControlerName}@${3:methodName}');]]></content>
+    <tabTrigger>RoutePut</tabTrigger>
+    <scope>source.php</scope>
+    <description>Controller@method</description>
+</snippet>

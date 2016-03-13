@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Config::has('${1:key}');]]></content>
+    <tabTrigger>confHas</tabTrigger>
+    <scope>source.php</scope>
+    <description>Config::has()</description>
+</snippet>

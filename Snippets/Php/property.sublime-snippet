@@ -4,7 +4,7 @@
  *
  * @var ${2:data type}
  */
-public \$${3:propery};$0
+${3:public} \$${4:propery};$0
 ]]></content>
     <tabTrigger>property</tabTrigger>
     <scope>source.php</scope>

@@ -1,6 +1,5 @@
 <snippet>
-    <content><![CDATA[Schema::create('${1:TableName}', function (Blueprint \$table)
-{
+    <content><![CDATA[Schema::create('${1:TableName}', function (Blueprint \$table) {
 	${0://}
 });]]></content>
     <tabTrigger>Sch::create</tabTrigger>

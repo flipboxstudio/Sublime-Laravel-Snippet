@@ -9,7 +9,7 @@
 
 '${3:key}' => '${4:value}'
 ]]></content>
-    <tabTrigger>config</tabTrigger>
+    <tabTrigger>configSet</tabTrigger>
     <scope>source.php</scope>
     <description>key => value</description>
 </snippet>

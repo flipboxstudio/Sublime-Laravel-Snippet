@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[dd(${1:'${2:string}'});]]></content>
+    <tabTrigger>dd</tabTrigger>
+    <scope>source.php</scope>
+    <description>helper</description>
+</snippet>

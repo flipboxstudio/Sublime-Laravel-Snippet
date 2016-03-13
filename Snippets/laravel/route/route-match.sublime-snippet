@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Route::match([${3:'get'}${4:, 'post'}${5:, 'put'}${6:, 'delete'}], '${1:ControlerName}@${2:methodName}');]]></content>
+    <tabTrigger>RouteMatch</tabTrigger>
+    <scope>source.php</scope>
+    <description>Controller@method</description>
+</snippet>
