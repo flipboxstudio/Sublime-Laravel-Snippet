@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Session::has('${1:name}');]]></content>
+    <tabTrigger>sessHas</tabTrigger>
+    <scope>source.php</scope>
+    <description>Session::has()</description>
+</snippet>

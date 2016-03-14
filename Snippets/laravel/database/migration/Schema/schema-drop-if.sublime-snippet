@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Schema::dropIfExists('${0:TableName}');]]></content>
-    <tabTrigger>Sch::dropif</tabTrigger>
+    <tabTrigger>SchDropif</tabTrigger>
     <scope>source.php</scope>
     <description>Schema::dropIfEx(…)</description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[table->enum('${1:field}', ['${2:opt1}', '${3:opt2}'${4:, '${5:opt3}'}]);]]></content>
-    <tabTrigger>table->enum()</tabTrigger>
+    <tabTrigger>tableEnum</tabTrigger>
     <scope>source.php</scope>
     <description>Enum</description>
 </snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[request->session()->all();]]></content>
+    <tabTrigger>reqSessAll</tabTrigger>
+    <scope>source.php</scope>
+    <description>session()->all()</description>
+</snippet>

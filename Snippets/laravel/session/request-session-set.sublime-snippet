@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[request->session()->set('${1:name}', '${2:value}');]]></content>
+    <tabTrigger>reqSessSet</tabTrigger>
+    <scope>source.php</scope>
+    <description>session()->set()</description>
+</snippet>

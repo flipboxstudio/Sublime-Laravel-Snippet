@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Schema::drop('${0:TableName}');]]></content>
-    <tabTrigger>Sch::drop</tabTrigger>
+    <tabTrigger>SchDrop</tabTrigger>
     <scope>source.php</scope>
     <description>Schema::drop(…)</description>
 </snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[request->session()->put('${1:key}', '${2:value}');]]></content>
+    <tabTrigger>reqSessPut</tabTrigger>
+    <scope>source.php</scope>
+    <description>session()->put()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Session::forget('${1:key}');]]></content>
+    <tabTrigger>sessForget</tabTrigger>
+    <scope>source.php</scope>
+    <description>Session::forget()</description>
+</snippet>

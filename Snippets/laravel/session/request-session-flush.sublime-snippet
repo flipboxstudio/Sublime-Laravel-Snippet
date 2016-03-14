@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[request->session()->flush();]]></content>
+    <tabTrigger>reqSessFlush</tabTrigger>
+    <scope>source.php</scope>
+    <description>session()->flush()</description>
+</snippet>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[table->softDeletes();]]></content>
-    <tabTrigger>table->softDeletes()</tabTrigger>
+    <tabTrigger>tableSoftDeletes</tabTrigger>
     <scope>source.php</scope>
     <description>Timestamp</description>
 </snippet>

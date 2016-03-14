@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Session::get('${1:name}');]]></content>
+    <tabTrigger>sessGet</tabTrigger>
+    <scope>source.php</scope>
+    <description>Session::get()</description>
+</snippet>

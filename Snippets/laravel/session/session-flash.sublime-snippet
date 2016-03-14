@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Session::flash('${1:key}', '${2:value}');]]></content>
+    <tabTrigger>sessFlash</tabTrigger>
+    <scope>source.php</scope>
+    <description>Session::flash()</description>
+</snippet>

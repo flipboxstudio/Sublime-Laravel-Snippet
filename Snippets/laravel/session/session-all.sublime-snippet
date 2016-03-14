@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Session::all();]]></content>
+    <tabTrigger>sessAll</tabTrigger>
+    <scope>source.php</scope>
+    <description>Session::all()</description>
+</snippet>

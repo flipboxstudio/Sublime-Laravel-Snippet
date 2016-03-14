@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[request->session()->pull('${1:key}'${2:, '${3:default}'});]]></content>
+    <tabTrigger>reqSessPull</tabTrigger>
+    <scope>source.php</scope>
+    <description>session()->pull()</description>
+</snippet>
